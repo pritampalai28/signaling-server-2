@@ -1,5 +1,5 @@
 {
-  "name": "signaling-server",
+  "name": "websocket",
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
